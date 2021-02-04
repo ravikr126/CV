@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin: 0 0 0 0;
+    font-family: 'Sacramento', cursive;
+}
+div {
+    background-color: #02d8f5;
+}
+.top-cointainer{
+    position: relative;
+    padding-top: 100px;
+}
+
+.sp{
+    text-decoration: underline;
+}
+.top-img{
+    position: absolute; 
+    left:100px;
+   top:50px
+}
+
+.bottom-img{
+    position: absolute;
+    right: 80px;
+    bottom: 300px;
+}
+h1{
+    padding: 20 20 20 20;
+    font-family: 'Original Surfer', cursive;
+}
